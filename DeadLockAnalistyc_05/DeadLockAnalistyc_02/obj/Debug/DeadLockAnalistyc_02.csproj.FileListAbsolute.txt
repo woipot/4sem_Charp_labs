@@ -1,0 +1,8 @@
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\bin\Debug\input.txt
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\bin\Debug\DeadLockAnalistyc_02.exe.config
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\bin\Debug\DeadLockAnalistyc_02.exe
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\bin\Debug\DeadLockAnalistyc_02.pdb
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\obj\Debug\DeadLockAnalistyc_02.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\obj\Debug\DeadLockAnalistyc_02.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\obj\Debug\DeadLockAnalistyc_02.exe
+D:\Projects\c#_class_02_02\DeadLockAnalistyc_02\DeadLockAnalistyc_02\obj\Debug\DeadLockAnalistyc_02.pdb

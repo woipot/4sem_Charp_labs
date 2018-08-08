@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\bin\Debug\06_01_dihotomia.exe.config
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\bin\Debug\06_01_dihotomia.exe
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\bin\Debug\06_01_dihotomia.pdb
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\obj\Debug\06_01_dihotomia.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\obj\Debug\06_01_dihotomia.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\obj\Debug\06_01_dihotomia.exe
+D:\Projects\c#_class_02_02\06_01_dihotomia\06_01_dihotomia\obj\Debug\06_01_dihotomia.pdb

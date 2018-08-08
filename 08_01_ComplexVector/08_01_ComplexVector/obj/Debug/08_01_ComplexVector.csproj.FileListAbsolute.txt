@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\bin\Debug\08_01_ComplexVector.exe.config
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\bin\Debug\08_01_ComplexVector.exe
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\bin\Debug\08_01_ComplexVector.pdb
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\obj\Debug\08_01_ComplexVector.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\obj\Debug\08_01_ComplexVector.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\obj\Debug\08_01_ComplexVector.exe
+D:\Projects\c#_class_02_02\08_01_ComplexVector\08_01_ComplexVector\obj\Debug\08_01_ComplexVector.pdb

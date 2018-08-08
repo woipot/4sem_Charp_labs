@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\bin\Debug\PictureCW_01.exe.config
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\bin\Debug\PictureCW_01.exe
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\bin\Debug\PictureCW_01.pdb
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\obj\Debug\PictureCW_01.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\obj\Debug\PictureCW_01.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\obj\Debug\PictureCW_01.exe
+D:\Projects\c#_class_02_02\PictureCW_01\PictureCW_01\obj\Debug\PictureCW_01.pdb

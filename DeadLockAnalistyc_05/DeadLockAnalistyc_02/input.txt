@@ -1,0 +1,30 @@
+﻿init 1
+init 2
+init 3
+init 4
+init 5
+init 6
+init 7
+init 8
+init 9
+init 10
+
+mordred (1)
+gowain (9 2 3)
+lancelot (1 2 4)
+
+galahad (1)
+
+cai (9 8 7)
+lancelot request 7
+cai request 10
+
+cai free 9 
+
+artur (5 6)
+
+mordred request 9
+gowain //request 4 // deadlock
+
+gowain free 43
+gowain free 9

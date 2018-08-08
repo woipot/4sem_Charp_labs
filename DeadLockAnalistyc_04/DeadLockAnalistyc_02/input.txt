@@ -1,0 +1,62 @@
+﻿init 1
+init 21
+init 321
+init 4321
+init 5432
+init wefwe
+
+betha () ()
+lancelot (1) (21 5432)
+deadlocker (21) (1)
+
+init 1214
+init 1245
+init 1256
+
+gawain () (21 1245 1256)
+alpha (1214) (1245 1256)
+gorno (21 4321) (1245 1 21) 
+galahad (1256) ()
+
+galahad take 1245
+galahad request 1214
+galahad request 1256
+gawain take 5432
+
+gawain request 5432
+gawain free 5432
+alpha cancel 1245
+
+init 5
+init 9
+init 11 
+init 12
+init 13
+init 14
+init 15
+init 16
+
+gorno (16 15) (1256 5)
+
+mordred (13 14 12 11 9) (16)
+galahad request 321
+gawain take 321
+
+init 17
+init 18
+init 19
+init 20	
+init 21
+init 22
+init 23
+init 24
+init 25
+
+lamorak (24 25) (13 12 11 1256)
+
+gawain request 24
+gawain request 25
+
+bors (22 23) (1214 1)
+cai (17 18 19 20) ()
+gawain cancel 1256

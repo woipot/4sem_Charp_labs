@@ -1,0 +1,8 @@
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\bin\Debug\04_01_fractionsTranslation.exe.config
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\bin\Debug\04_01_fractionsTranslation.exe
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\bin\Debug\04_01_fractionsTranslation.pdb
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\obj\Debug\04_01_fractionsTranslation.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\obj\Debug\04_01_fractionsTranslation.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\obj\Debug\04_01_fractionsTranslation.exe
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\obj\Debug\04_01_fractionsTranslation.pdb
+D:\Projects\c#_class_02_02\04_01_fractionsTranslation\04_01_fractionsTranslation\bin\Debug\test2.txt

@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\bin\Debug\03_01_charProcessing.exe.config
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\bin\Debug\03_01_charProcessing.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\bin\Debug\03_01_charProcessing.pdb
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\obj\Debug\03_01_charProcessing.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\obj\Debug\03_01_charProcessing.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\obj\Debug\03_01_charProcessing.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_charProcessing\obj\Debug\03_01_charProcessing.pdb

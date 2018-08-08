@@ -1,0 +1,14 @@
+D:\Projects\c#\01_01_cub\01_01_cub\bin\Debug\01_01_cub.exe.config
+D:\Projects\c#\01_01_cub\01_01_cub\bin\Debug\01_01_cub.exe
+D:\Projects\c#\01_01_cub\01_01_cub\bin\Debug\01_01_cub.pdb
+D:\Projects\c#\01_01_cub\01_01_cub\obj\Debug\01_01_cub.csprojResolveAssemblyReference.cache
+D:\Projects\c#\01_01_cub\01_01_cub\obj\Debug\01_01_cub.csproj.CoreCompileInputs.cache
+D:\Projects\c#\01_01_cub\01_01_cub\obj\Debug\01_01_cub.exe
+D:\Projects\c#\01_01_cub\01_01_cub\obj\Debug\01_01_cub.pdb
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\bin\Debug\01_01_cub.exe.config
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\bin\Debug\01_01_cub.exe
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\bin\Debug\01_01_cub.pdb
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\obj\Debug\01_01_cub.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\obj\Debug\01_01_cub.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\obj\Debug\01_01_cub.exe
+D:\Projects\c#_class_02_02\01_01_cub\01_01_cub\obj\Debug\01_01_cub.pdb

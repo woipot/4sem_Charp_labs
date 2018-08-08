@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\bin\Debug\functionMinimization.exe.config
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\bin\Debug\functionMinimization.exe
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\bin\Debug\functionMinimization.pdb
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\obj\Debug\functionMinimization.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\obj\Debug\functionMinimization.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\obj\Debug\functionMinimization.exe
+D:\Projects\c#_class_02_02\functionMinimization\functionMinimization\obj\Debug\functionMinimization.pdb

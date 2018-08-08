@@ -1,0 +1,14 @@
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.exe.config
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.exe
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.pdb
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.csprojResolveAssemblyReference.cache
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.csproj.CoreCompileInputs.cache
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.exe
+D:\Projects\c#\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.pdb
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.exe.config
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\bin\Debug\03_01_numberProcessing.pdb
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_numberProcessing\obj\Debug\03_01_numberProcessing.pdb

@@ -1,0 +1,6 @@
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\bin\Release\11_03_DirectoryWalk.exe.config
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\bin\Release\11_03_DirectoryWalk.exe
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\bin\Release\11_03_DirectoryWalk.pdb
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\obj\Release\11_03_DirectoryWalk.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\obj\Release\11_03_DirectoryWalk.exe
+D:\Projects\c#_class_02_02\11_03_DirectoryWalk\11_03_DirectoryWalk\obj\Release\11_03_DirectoryWalk.pdb

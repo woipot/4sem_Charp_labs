@@ -1,0 +1,14 @@
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.exe.config
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.exe
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.pdb
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.csprojResolveAssemblyReference.cache
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.csproj.CoreCompileInputs.cache
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.exe
+D:\Projects\c#\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.pdb
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\obj\Debug\03_01_baseTranslate.pdb
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.exe.config
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.exe
+D:\Projects\c#_class_02_02\03_01_numberProcessing\03_01_baseTranslate\bin\Debug\03_01_baseTranslate.pdb

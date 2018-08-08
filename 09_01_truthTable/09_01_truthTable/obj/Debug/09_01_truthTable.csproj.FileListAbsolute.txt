@@ -1,0 +1,8 @@
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\bin\Debug\09_01_truthTable.exe.config
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\bin\Debug\09_01_truthTable.exe
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\bin\Debug\09_01_truthTable.pdb
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\obj\Debug\09_01_truthTable.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\obj\Debug\09_01_truthTable.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\obj\Debug\09_01_truthTable.exe
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\obj\Debug\09_01_truthTable.pdb
+D:\Projects\c#_class_02_02\09_01_truthTable\09_01_truthTable\bin\Debug\input.txt

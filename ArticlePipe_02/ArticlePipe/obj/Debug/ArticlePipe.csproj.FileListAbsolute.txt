@@ -1,0 +1,16 @@
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\bin\Debug\ArticlePipe.dll
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\bin\Debug\ArticlePipe.pdb
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\obj\Debug\ArticlePipe.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\obj\Debug\ArticlePipe.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\obj\Debug\ArticlePipe.dll
+D:\Projects\c#_class_02_02\ArticlePipe\ArticlePipe\obj\Debug\ArticlePipe.pdb
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\bin\Debug\ArticlePipe.dll
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\bin\Debug\ArticlePipe.pdb
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\obj\Debug\ArticlePipe.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\obj\Debug\ArticlePipe.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\obj\Debug\ArticlePipe.csproj.CopyComplete
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\obj\Debug\ArticlePipe.dll
+D:\Projects\c#_class_02_02\ArticlePipe_02\ArticlePipe\obj\Debug\ArticlePipe.pdb

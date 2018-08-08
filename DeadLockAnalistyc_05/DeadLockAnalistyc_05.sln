@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLockAnalistyc_05", "DeadLockAnalistyc_02\DeadLockAnalistyc_05.csproj", "{D76FF843-541F-45C9-9F9B-BBA2B5691EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76FF843-541F-45C9-9F9B-BBA2B5691EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76FF843-541F-45C9-9F9B-BBA2B5691EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76FF843-541F-45C9-9F9B-BBA2B5691EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76FF843-541F-45C9-9F9B-BBA2B5691EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8179572-5B12-400B-81CF-5B5A9A1717D8}
+	EndGlobalSection
+EndGlobal

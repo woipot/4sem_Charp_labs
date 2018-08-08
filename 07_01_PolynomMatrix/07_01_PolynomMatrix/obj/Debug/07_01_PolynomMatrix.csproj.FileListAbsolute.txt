@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\bin\Debug\07_01_PolynomMatrix.exe.config
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\bin\Debug\07_01_PolynomMatrix.exe
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\bin\Debug\07_01_PolynomMatrix.pdb
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\obj\Debug\07_01_PolynomMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\obj\Debug\07_01_PolynomMatrix.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\obj\Debug\07_01_PolynomMatrix.exe
+D:\Projects\c#_class_02_02\07_01_PolynomMatrix\07_01_PolynomMatrix\obj\Debug\07_01_PolynomMatrix.pdb

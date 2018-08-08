@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\bin\Debug\05_01_strChange.exe.config
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\bin\Debug\05_01_strChange.exe
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\bin\Debug\05_01_strChange.pdb
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\obj\Debug\05_01_strChange.csprojResolveAssemblyReference.cache
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\obj\Debug\05_01_strChange.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\obj\Debug\05_01_strChange.exe
+D:\Projects\c#_class_02_02\05_01_strChange\05_01_strChange\obj\Debug\05_01_strChange.pdb

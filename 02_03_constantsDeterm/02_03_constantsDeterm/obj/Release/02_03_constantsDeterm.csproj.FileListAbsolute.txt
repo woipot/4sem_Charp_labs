@@ -1,0 +1,7 @@
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\bin\Release\02_03_constantsDeterm.exe.config
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\bin\Release\02_03_constantsDeterm.exe
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\bin\Release\02_03_constantsDeterm.pdb
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\obj\Release\02_03_constantsDeterm.csproj.CoreCompileInputs.cache
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\obj\Release\02_03_constantsDeterm.exe
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\obj\Release\02_03_constantsDeterm.pdb
+D:\Projects\c#_class_02_02\02_03_constantsDeterm\02_03_constantsDeterm\obj\Release\02_03_constantsDeterm.csprojResolveAssemblyReference.cache
